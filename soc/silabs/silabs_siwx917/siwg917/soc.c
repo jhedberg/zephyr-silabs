@@ -9,6 +9,8 @@
 #include "rsi_rom_clks.h"
 #include "rsi_rom_ulpss_clk.h"
 
+/* FIXME: just a test change */
+
 int silabs_siwx917_init(void)
 {
 	SystemInit();
