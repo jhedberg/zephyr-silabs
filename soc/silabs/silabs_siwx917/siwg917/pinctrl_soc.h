@@ -8,6 +8,8 @@
 
 #include <zephyr/types.h>
 
+/* Just a test change. */
+
 typedef struct pinctrl_soc_pin_t {
 	uint8_t base;
 	uint8_t port;
